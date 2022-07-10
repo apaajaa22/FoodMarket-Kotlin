@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food Market Kotlin</string>
+    <string name="splashTitile">Food Market</string>
+    <string name="image_splashscreen">image splashscreen</string>
+</resources>
